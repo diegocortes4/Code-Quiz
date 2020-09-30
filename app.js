@@ -10,29 +10,29 @@ var HighScore = document.getElementsByClassName("HighScore")[0]
 
 var Questions = [
 {
-   Question: "",
-   Answer:[],
-   CorrectAnswer: ""
+   Question: "Commonly used data types DO NOT Include:",
+   Answer:[Strings,Booleans,Alerts,Numbers],
+   CorrectAnswer: "Alerts"
 
 } ,{
-    Question: "",
-    Answer:[],
-    CorrectAnswer: ""
+    Question: "The condition in a n if / else statement is enclosed within ____.",
+    Answer:[quotes,curly brackets, parentheses,square brackets],
+    CorrectAnswer: "parentheses"
  
  } ,{
-    Question: "",
-    Answer:[],
-    CorrectAnswer: ""
+    Question: "Arrays in JavaScript can be used to store ____.",
+    Answer:[Numbers and strings, other Arreys, booleans, all of the above],
+    CorrectAnswer: "all of the above"
  
  } ,{
-    Question: "",
-    Answer:[],
-    CorrectAnswer: ""
+    Question: "String values must be enclosed within____ when being assigned to variables",
+    Answer:[commas,curly brackets, quotes, parentheses],
+    CorrectAnswer: "quotes"
  
  } ,{
-    Question: "",
-    Answer:[],
-    CorrectAnswer: ""
+    Question: "A very useful tool used during development and debugging for printing content to the debugger is:",
+    Answer:[JavaScript, terminal / bash, for loops, console log],
+    CorrectAnswer: "console log"
  
  } 
 ]
