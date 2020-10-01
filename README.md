@@ -1,5 +1,5 @@
 # Code-Quiz
-On this project we want to use Java Scrip to provide quiz questions, collecting the user's data and comparing it to know if the answers are correct or incorrect generating a score at the last page.
+On this project we want to use Java Script to provide quiz questions, collecting the user's data and comparing it to know if the answers are correct or incorrect generating a score at the last page.
 
 
 
@@ -8,7 +8,7 @@ On this project we want to use Java Scrip to provide quiz questions, collecting 
 Deployed webpage link:
 
 
-https://diegocortes4.github.io/js-password-generator/
+https://diegocortes4.github.io/Code-Quiz/
 
 
 Screenshot of the webpage:
